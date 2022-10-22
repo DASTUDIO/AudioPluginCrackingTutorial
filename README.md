@@ -1,4 +1,6 @@
 # VSTCrackTutorial
  Audio plugin cracking tutorial for beginners
 
-C:\Program Files\Common Files\VST3
+
+Tutorial: [http://www.zhangxinhao.com/blog/5178](http://www.zhangxinhao.com/blog/5178)
+
