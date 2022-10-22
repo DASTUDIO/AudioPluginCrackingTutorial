@@ -11,17 +11,17 @@ void VSTCrackTutorial001AudioProcessorEditor::ShowRegWindow()
 {
     setSize (400, 300);
 
-    InputName.setBounds(180, 100, 150, 20); 
+    InputName.setBounds(125, 100, 150, 20);
     InputName.setText("your name");
     InputName.setSize(150, 20);
     addAndMakeVisible(InputName);
 
-    InputSerial.setBounds(180, 120, 150, 20); 
+    InputSerial.setBounds(125, 120, 150, 20);
     InputSerial.setText("serial number");
     InputSerial.setSize(150, 20);
     addAndMakeVisible(InputSerial);
 
-    ButtonRegister.setBounds(180, 140, 150, 20);
+    ButtonRegister.setBounds(125, 140, 150, 20);
     ButtonRegister.setButtonText("Register");
     ButtonRegister.setSize(150, 20);
     addAndMakeVisible(ButtonRegister);
